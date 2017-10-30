@@ -1,3 +1,4 @@
 1. Git repository was created.
 2. The first commit was added.
 3. The thirs string was added.
+4. We finished this lab.
